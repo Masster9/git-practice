@@ -1,4 +1,4 @@
 Заметки по Git
 Git — распределённая система контроля версий.
-Основные команды: init, add, commit, status, log, diff.
+Основные команды: init, add, commit, status, log, diff, branch, checkout, merge.
 Команда git diff показывает изменения в файлах.
